@@ -1,6 +1,11 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: rgb(0, 0, 0);
+  background-image: url(assets/img/bg.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 a {
@@ -253,15 +258,6 @@ h6,
   background: #000;
 }
 
-/* Services */
-.services i {
-  font-size: 40px;
-}
-
-.services h4 {
-  padding-top: 10px;
-}
-
 /* Contact Form */
 .php-email-form .error-message {
   display: none;
@@ -323,9 +319,8 @@ h6,
   }
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
+/* Header */
+
 /* Custom Navmenu */
 .custom-navmenu {
   background: #0d1e2d;
@@ -458,9 +453,7 @@ h6,
   outline: none;
 }
 
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
+/* Footer */
 
 .footer a {
   color: #000000;

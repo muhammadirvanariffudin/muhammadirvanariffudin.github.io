@@ -1,0 +1,17 @@
+square
+width		: 500
+height		: 500
+resolution	: 100
+size around 100KB
+
+landscape
+width		: 500
+height		: 334
+resolution	: 100
+size around 100KB
+
+portrait
+width		: 500
+height		: 707
+resolution	: 100
+size around 100KB
